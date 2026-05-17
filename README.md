@@ -1,28 +1,26 @@
-# eyasys
+# 呀
 
-quietly building systems.
-
----
+building things that actually work.
 
 ## projects
-- raspberry pi lab series  
-- library management system  
-
----
+- raspberry pi lab series (ongoing)
+- 5-story client-server network
+- library management system (student project)
+- factory safety ai (ongoing)
 
 ## stack
-- python  
-- c#  
-- sql  
-- raspberry pi  
-
----
+- python
+- c#
+- sql
+- raspberry pi
+- networking
+- cisco packet tracer
 
 ## focus
-- embedded systems  
-- hardware + software integration  
-
----
+- embedded systems
+- hardware + software integration
+- networking
+- ai + edge computing
 
 ## notes
 less talk, more building.
